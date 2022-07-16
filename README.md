@@ -1,2 +1,3 @@
-# portfoliosite
-That is my portifolio website :D
+# Site with HTML and CSS
+
+That is the site-with-pure-html one but now with css! :D
