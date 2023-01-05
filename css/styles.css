@@ -9,3 +9,11 @@ h1, h3 {
 p, li, ul {
     color: #F2EBDC;
 }
+
+.circular {
+    border-radius: 40%;
+}
+
+.hover:hover {
+    color: #F2EBDC; 
+}
